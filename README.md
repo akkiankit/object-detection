@@ -1,2 +1,2 @@
-# object-detection
-added a new file
+# deploy-heroku
+Deploy an Image Classification Model on Heroku
